@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there!
+I'm currently learning java, data structures, opengl basics.
+I'm looking forward to learn web development.
+
+
 
 <!--
 **Felamar/Felamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
