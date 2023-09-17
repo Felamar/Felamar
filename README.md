@@ -13,6 +13,7 @@
 ## Tools
 
 <img src="img/tech_kit/adobephotoshop.svg" width="50">
+<img src="img/tech_kit/windows.svg" width="50">
 
 ## Projects
 
