@@ -7,7 +7,7 @@
 - I like to improve my code, almost to a fault.
 
 > ### *Life before death. Strength before weakness. Journey before destination.*
-> **-The First Ideal of the Knights Radiant**
+> **-The First Ideal of the Knights Radiant** <img src="https://coppermind.net/w/images/Beteb_glyph.svg" width="8%" style="float: right; margin-top: 0; filter: drop-shadow(1px 1px 2px black);">
 
 
 ## Tools
@@ -52,5 +52,5 @@
 - Share a few of your favorite quotes that inspire or resonate with you.
 
 ## GitHub Stats
-
+ 
 You can use services like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to generate GitHub statistics for your profile. Include badges for metrics like your GitHub contributions, repositories, and followers.
