@@ -162,8 +162,11 @@
 ## Contact Me
 <!-- link to email -->
 
--   Email: <a href="mailto: felamarelin@gmail.com">felamarelin@gmail.com</a>
--   Twitter: <a href="https://twitter.com/felamarelin">@FelamarElin</a>
+<a href="mailto: felamarelin@gmail.com">    <img src="img/tech_kit/gmail.svg" width="30"></a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/felamarelin">  <img src="img/tech_kit/twitter.svg" width="30"></a>
+&nbsp;&nbsp;
+<!-- <a href=""> <img src="img/tech_kit/linkedin.svg" width="30"></a> -->
 
 ## Hobbies
 
