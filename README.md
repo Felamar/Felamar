@@ -7,9 +7,9 @@
 - I like to improve my code, almost to a fault.
 
 > ### *Life before death. Strength before weakness. Journey before destination.*
-> **-The First Ideal of the Knights Radiant** <img src="https://coppermind.net/w/images/Beteb_glyph.svg" width="8%" style="float: right; margin-top: 0; filter: drop-shadow(1px 1px 2px black);">
+> **-The First Ideal of the Knights Radiant** <img align="right" src="https://coppermind.net/w/images/Beteb_glyph.svg" width="8%">
 
-
+  
 ## Tools
 
 
