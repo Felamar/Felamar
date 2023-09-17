@@ -1,3 +1,9 @@
+<style>
+  svg path {
+    fill: red;
+  }
+</style>
+
 <img src=img/git_felamar.jpg width="100%">
 
 ## About Me
@@ -9,11 +15,13 @@
 > ### *Life before death. Strength before weakness. Journey before destination.*
 > **-The First Ideal of the Knights Radiant** <img align="right" src="https://coppermind.net/w/images/Beteb_glyph.svg" width="8%">
 
-  
-## Tools
 
-<img src="img/tech_kit/adobephotoshop.svg" width="50">
-<img src="img/tech_kit/windows.svg" width="50">
+
+## Tools
+<p>
+<img src="img/tech_kit/adobephotoshop.svg" width="30">
+<img src="img/tech_kit/windows.svg" width="30">
+</p>
 
 ## Projects
 
