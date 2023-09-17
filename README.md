@@ -12,7 +12,7 @@
   
 ## Tools
 
-<img src="img/tech_kit/adobephotoshop.svg" width="50px">
+![Photoshop](img/tech_kit/adobephotoshop.svg)
 
 ## Projects
 
