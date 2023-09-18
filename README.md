@@ -175,14 +175,15 @@
 
 ## Favorite Quotes
 
-> ### *"If I must fall, I will rise each time a better man."*  
-> 
-> **-Dalinar Kholin** <a href="https://coppermind.net/wiki/Order_of_Bondsmiths"><img align="right" src="https://coppermind.net/w/images/Ishi_glyph.svg" width="50"></a>
-
-
 > ### *"The most important step a man can take. It’s not the first one, is it? It’s the next one. Always the next step, Dalinar."*  
 > 
 > **-Dalinar Kholin** <a href="https://coppermind.net/wiki/Order_of_Bondsmiths"><img align="right" src="https://coppermind.net/w/images/Ishi_glyph.svg" width="50"></a>
+
+> ### *"If I must fall, I will rise each time a better man."*  
+> 
+> **-Dalinar Kholin** 
+
+
 
 <!-- ## GitHub Stats
 
