@@ -179,6 +179,11 @@
 > 
 > **-Dalinar Kholin** <a href="https://coppermind.net/wiki/Order_of_Bondsmiths"><img align="right" src="https://coppermind.net/w/images/Ishi_glyph.svg" width="50"></a>
 
+
+> ### *"The most important step a man can take. It’s not the first one, is it? It’s the next one. Always the next step, Dalinar."*  
+> 
+> **-Dalinar Kholin** <a href="https://coppermind.net/wiki/Order_of_Bondsmiths"><img align="right" src="https://coppermind.net/w/images/Ishi_glyph.svg" width="50"></a>
+
 <!-- ## GitHub Stats
 
 You can use services like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to generate GitHub statistics for your profile. Include badges for metrics like your GitHub contributions, repositories, and followers. -->
