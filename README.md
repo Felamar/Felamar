@@ -8,7 +8,7 @@
 
 > ### *Life before death. Strength before weakness. Journey before destination.*
 >
-> **-The First Ideal of the Knights Radiant** <a href="https://coppermind.net/wiki/Order_of_Elsecallers"><img align="right" src="img/SA/Beteb_glyph.png" width="50"></a>
+> **-The First Ideal of the Knights Radiant** <a href="https://coppermind.net/wiki/Order_of_Elsecallers"><img align="right" src="img/sa/Beteb_glyph.png" width="50"></a>
 
 ## Tools
 
@@ -177,7 +177,7 @@
 
 > ### *"If I must fall, I will rise each time a better man."*  
 > 
-> **-Dalinar Kholin** <a href="https://coppermind.net/wiki/Order_of_Bondsmiths"><img src="img/SA/Ishi_glyph.png" align="right" width="50"></a>
+> **-Dalinar Kholin** <a href="https://coppermind.net/wiki/Order_of_Bondsmiths"><img src="img/sa/Ishi_glyph.png" align="right" width="50"></a>
 
 <!-- ## GitHub Stats
 
