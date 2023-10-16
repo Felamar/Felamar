@@ -8,7 +8,7 @@
 
 > ### *Life before death. Strength before weakness. Journey before destination.*
 >
-> **-The First Ideal of the Knights Radiant** <a href="https://coppermind.net/wiki/Order_of_Elsecallers"><img align="right" src="/img/SA/Beteb_glyph.svg" width="50"></a>
+> **-The First Ideal of the Knights Radiant** <a href="https://coppermind.net/wiki/Order_of_Elsecallers"><img align="right" src="img/SA/Beteb_glyph.svg" width="50"></a>
 
 ## Tools
 
