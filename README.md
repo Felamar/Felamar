@@ -177,7 +177,7 @@
 
 > ### *"If I must fall, I will rise each time a better man."*  
 > 
-> **-Dalinar Kholin** <a href="https://coppermind.net/wiki/Order_of_Bondsmiths"><img align="right" src="img/SA/Ishi_glyph.svg" width="50"></a>
+> **-Dalinar Kholin** <a href="https://coppermind.net/wiki/Order_of_Bondsmiths"><img align="right" src=img/SA/Ishi_glyph.svg width="50"></a>
 
 <!-- ## GitHub Stats
 
