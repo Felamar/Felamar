@@ -8,133 +8,133 @@
 
 > ### *Life before death. Strength before weakness. Journey before destination.*
 >
-> **-The First Ideal of the Knights Radiant** <a href="https://coppermind.net/wiki/Order_of_Elsecallers"><img align="right" src="https://coppermind.net/w/images/Beteb_glyph.svg" width="50"></a>
+> **-The First Ideal of the Knights Radiant** <a target="_blank" href="https://coppermind.net/wiki/Order_of_Elsecallers"><img align="right" src="/img/SA/Beteb_glyph.svg" width="50"></a>
 
 ## Tools
 
 <p>
 <!-- aws -->
-    <a   href="https://www.aws.amazon.com">
+    <a   target="_blank" href="https://www.aws.amazon.com">
     <img src="img/tech_kit/amazonaws.svg"           width="30"></a>
     <!-- anaconda -->
-    <a   href="https://www.anaconda.com/">
+    <a   target="_blank" href="https://www.anaconda.com/">
     <img src="img/tech_kit/anaconda.svg"            width="30"></a>
     <!-- apache netbeans -->
-    <a   href="https://netbeans.apache.org/">
+    <a   target="_blank" href="https://netbeans.apache.org/">
     <img src="img/tech_kit/apachenetbeanside.svg"   width="30"></a>
     <!-- arduino -->
-    <a   href="https://www.arduino.cc/">
+    <a   target="_blank" href="https://www.arduino.cc/">
     <img src="img/tech_kit/arduino.svg"             width="30"></a>
     <!-- c -->
-    <a   href="https://www.cprogramming.com/">
+    <a   target="_blank" href="https://www.cprogramming.com/">
     <img src="img/tech_kit/c.svg"                   width="30"></a>
     <!-- c++ -->
-    <a   href="https://www.cplusplus.com/">
+    <a   target="_blank" href="https://www.cplusplus.com/">
     <img src="img/tech_kit/cplusplus.svg"           width="30"></a>
     <!-- css -->
-    <a   href="https://www.w3.org/Style/CSS/">
+    <a   target="_blank" href="https://www.w3.org/Style/CSS/">
     <img src="img/tech_kit/css3.svg"                width="30"></a>
     <!-- docker -->
-    <a   href="https://www.docker.com/">
+    <a   target="_blank" href="https://www.docker.com/">
     <img src="img/tech_kit/docker.svg"              width="30"></a>
     <!-- git -->
-    <a   href="https://git-scm.com/">
+    <a   target="_blank" href="https://git-scm.com/">
     <img src="img/tech_kit/git.svg"                 width="30"></a>
     <!-- github -->
-    <a   href="https://www.github.com/">
+    <a   target="_blank" href="https://www.github.com/">
     <img src="img/tech_kit/github.svg"              width="30"></a>
     <!-- gnubash -->
-    <a   href="https://www.gnu.org/software/bash/">
+    <a   target="_blank" href="https://www.gnu.org/software/bash/">
     <img src="img/tech_kit/gnubash.svg"             width="30"></a>
     <!-- go -->
-    <a   href="https://golang.org/">
+    <a   target="_blank" href="https://golang.org/">
     <img src="img/tech_kit/go.svg"                  width="30"></a>
     <!-- gcloud -->
-    <a   href="https://cloud.google.com/">
+    <a   target="_blank" href="https://cloud.google.com/">
     <img src="img/tech_kit/googlecloud.svg"         width="30"></a>
     <!-- html -->
-    <a   href="https://www.w3.org/html/">
+    <a   target="_blank" href="https://www.w3.org/html/">
     <img src="img/tech_kit/html5.svg"               width="30"></a>
     <!-- intellij -->
-    <a   href="https://www.jetbrains.com/idea/">
+    <a   target="_blank" href="https://www.jetbrains.com/idea/">
     <img src="img/tech_kit/intellijidea.svg"        width="30"></a>
     <!-- java -->
-    <a   href="https://www.java.com/">
+    <a   target="_blank" href="https://www.java.com/">
     <img src="img/tech_kit/java.svg"                width="30" ></a>
     <!-- javascript -->
-    <a   href="https://www.javascript.com/">
+    <a   target="_blank" href="https://www.javascript.com/">
     <img src="img/tech_kit/javascript.svg"          width="30" ></a>
     <!-- jetbrains -->
-    <a   href="https://www.jetbrains.com/">
+    <a   target="_blank" href="https://www.jetbrains.com/">
     <img src="img/tech_kit/jetbrains.svg"           width="30" ></a>
     <!-- jupyter -->
-    <a   href="https://jupyter.org/">
+    <a   target="_blank" href="https://jupyter.org/">
     <img src="img/tech_kit/jupyter.svg"             width="30" ></a>
     <!-- kubernetes -->
-    <a   href="https://kubernetes.io/">
+    <a   target="_blank" href="https://kubernetes.io/">
     <img src="img/tech_kit/kubernetes.svg"          width="30" ></a>
     <!-- leetcode -->
-    <a   href="https://leetcode.com/">
+    <a   target="_blank" href="https://leetcode.com/">
     <img src="img/tech_kit/leetcode.svg"            width="30" ></a>
     <!-- linux -->
-    <a   href="https://www.linux.org/">
+    <a   target="_blank" href="https://www.linux.org/">
     <img src="img/tech_kit/linux.svg"               width="30" ></a>
     <!-- markdown -->
-    <a   href="https://www.markdownguide.org/">
+    <a   target="_blank" href="https://www.markdownguide.org/">
     <img src="img/tech_kit/markdown.svg"            width="30" ></a>
     <!-- microsoft azure -->
-    <a   href="https://azure.microsoft.com/">
+    <a   target="_blank" href="https://azure.microsoft.com/">
     <img src="img/tech_kit/microsoftazure.svg"      width="30" ></a>
     <!-- mongodb -->
-    <a   href="https://www.mongodb.com/">
+    <a   target="_blank" href="https://www.mongodb.com/">
     <img src="img/tech_kit/mongodb.svg"             width="30" ></a>
     <!-- mysql -->
-    <a   href="https://www.mysql.com/">
+    <a   target="_blank" href="https://www.mysql.com/">
     <img src="img/tech_kit/mysql.svg"               width="30" ></a>
     <!-- nodejs -->
-    <a   href="https://nodejs.org/">
+    <a   target="_blank" href="https://nodejs.org/">
     <img src="img/tech_kit/nodedotjs.svg"           width="30" ></a>
     <!-- notion -->
-    <a   href="https://www.notion.so/">
+    <a   target="_blank" href="https://www.notion.so/">
     <img src="img/tech_kit/notion.svg"              width="30" ></a>
     <!-- numpy -->
-    <a   href="https://numpy.org/">
+    <a   target="_blank" href="https://numpy.org/">
     <img src="img/tech_kit/numpy.svg"               width="30" ></a>
     <!-- obs studio -->
-    <a   href="https://obsproject.com/">
+    <a   target="_blank" href="https://obsproject.com/">
     <img src="img/tech_kit/obsstudio.svg"           width="30" ></a>
     <!-- pandas -->
-    <a   href="https://pandas.pydata.org/">
+    <a   target="_blank" href="https://pandas.pydata.org/">
     <img src="img/tech_kit/pandas.svg"              width="30" ></a>
     <!-- python -->
-    <a   href="https://www.python.org/">
+    <a   target="_blank" href="https://www.python.org/">
     <img src="img/tech_kit/python.svg"              width="30" ></a>
     <!-- pycharm -->
-    <a   href="https://www.jetbrains.com/pycharm/">
+    <a   target="_blank" href="https://www.jetbrains.com/pycharm/">
     <img src="img/tech_kit/pycharm.svg"             width="30" ></a>
     <!-- photoshop -->
-    <a   href="https://www.adobe.com/products/photoshop.html">
+    <a   target="_blank" href="https://www.adobe.com/products/photoshop.html">
     <img src="img/tech_kit/adobephotoshop.svg"      width="30" ></a>
     <!-- r -->
-    <a   href="https://www.r-project.org/">
+    <a   target="_blank" href="https://www.r-project.org/">
     <img src="img/tech_kit/r.svg"                   width="30" ></a>
     <!-- react -->
-    <a   href="https://reactjs.org/">
+    <a   target="_blank" href="https://reactjs.org/">
     <img src="img/tech_kit/react.svg"               width="30" ></a>
     <!-- rust -->
-    <a   href="https://www.rust-lang.org/">
+    <a   target="_blank" href="https://www.rust-lang.org/">
     <img src="img/tech_kit/rust.svg"                width="30" ></a>
     <!-- scikit-learn -->
-    <a   href="https://scikit-learn.org/">
+    <a   target="_blank" href="https://scikit-learn.org/">
     <img src="img/tech_kit/scikitlearn.svg"         width="30" ></a>
     <!-- scipy -->
-    <a   href="https://www.scipy.org/">
+    <a   target="_blank" href="https://www.scipy.org/">
     <img src="img/tech_kit/scipy.svg"               width="30" ></a>
     <!-- vscode -->
-    <a   href="https://code.visualstudio.com/">
+    <a   target="_blank" href="https://code.visualstudio.com/">
     <img src="img/tech_kit/visualstudiocode.svg"    width="30" ></a>
     <!-- wordpress -->
-    <a   href="https://wordpress.com/">
+    <a   target="_blank" href="https://wordpress.com/">
     <img src="img/tech_kit/wordpress.svg"           width="30" ></a>
 </p>
 
@@ -162,11 +162,11 @@
 ## Contact Me
 <!-- link to email -->
 
-<a href="mailto: felamarelin@gmail.com">    <img src="img/tech_kit/gmail.svg" width="30"></a>
+<a target="_blank" href="mailto: felamarelin@gmail.com">    <img src="img/tech_kit/gmail.svg" width="30"></a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/felamarelin">  <img src="img/tech_kit/twitter.svg" width="30"></a>
+<a target="_blank" href="https://twitter.com/felamarelin">  <img src="img/tech_kit/twitter.svg" width="30"></a>
 &nbsp;&nbsp;
-<!-- <a href=""> <img src="img/tech_kit/linkedin.svg" width="30"></a> -->
+<!-- <a target="_blank" href=""> <img src="img/tech_kit/linkedin.svg" width="30"></a> -->
 
 ## Hobbies
 
@@ -177,7 +177,7 @@
 
 > ### *"If I must fall, I will rise each time a better man."*  
 > 
-> **-Dalinar Kholin** <a href="https://coppermind.net/wiki/Order_of_Bondsmiths"><img align="right" src="https://coppermind.net/w/images/Ishi_glyph.svg" width="50"></a>
+> **-Dalinar Kholin** <a target="_blank" href="https://coppermind.net/wiki/Order_of_Bondsmiths"><img align="right" src="https://coppermind.net/w/images/Ishi_glyph.svg" width="50"></a>
 
 <!-- ## GitHub Stats
 
